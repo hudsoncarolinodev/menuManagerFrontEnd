@@ -1,0 +1,10 @@
+.btnPrimary{
+    background-color: #090909;
+    color: #fff;
+    width: 100%;
+    max-width: 200px;
+    height: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 5px;
+}
